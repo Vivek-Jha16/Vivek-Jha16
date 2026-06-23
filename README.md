@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring Full Stack Developer | College Student<br><br>Passionate about building modern web applications and exploring new technologies. Currently learning Full Stack Development with a strong focus on creating responsive, user-friendly, and scalable projects. I enjoy turning ideas into real-world applications, solving coding challenges, and continuously improving my skills in both frontend and backend development. Always excited to learn, build, and grow in the tech world. 💻✨
+🚀 Full Stack Developer | College Student<br><br>Passionate about building modern web applications and exploring new technologies. Currently learning Full Stack Development with a strong focus on creating responsive, user-friendly, and scalable projects. I enjoy turning ideas into real-world applications, solving coding challenges, and continuously improving my skills in both frontend and backend development. Always excited to learn, build, and grow in the tech world. 💻✨
 
 
 ## 🌐 Socials:
